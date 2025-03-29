@@ -1,2 +1,2 @@
 # Portfolio_Cergy_Paris_DU
-université Cergy
+Projets réalisés dans le cadre du diplôme universtiare data Analyste à l'université Cergy Paris
